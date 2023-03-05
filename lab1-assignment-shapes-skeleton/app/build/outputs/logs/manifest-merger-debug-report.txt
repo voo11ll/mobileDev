@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\4e0b050e007fa8bacbb6c8b2a210a218\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\4c5acd53450a9d4e64351045029cd3ac\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\fef462d1d904d21787bda436b081312b\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\f17ea6d4907c4d2c40596a48bdd85f26\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\119e5ab76b6ea91c60c2fe8c35d09647\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\3b85300db432ac1c672d96d306579bb4\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\954ccf49b6a1501176cbf9f98565dedc\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\762589e567587105e97d65b51e9eb19c\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\c61b649190c8bb06606f9c92fb8e04f2\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\e18357ae99ed2fd9634cbc7fc8c44239\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\44f931e42a7544cbfd93e44ff5f1c8e0\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\2a6f619bcbb4a9cefbb0081db2c8dfda\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\6d405c5ca18f21761d47e8d9314830f1\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\c63c62043550270e3a7c01ce3229f5a1\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\2b4d6e155631edae428b6718ed1b625e\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\71c5a6b6d892268674b6713b6fcc2df0\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\373482b0506e18019dce7ff8a9c5de20\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\a867e28dd9fb26c428e694553a662cd9\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\65861a908d9b10d04016df52136f13da\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\92517c4462684b0b3b10c32f53803a1b\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\555d6abfc88c43cf1c9623b187b26d98\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\e70c97f59dfc31f75299ba273ed5f012\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\470cc8cc54015ed3d1c10eab1d3db0c9\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\6e52bd240927a969ea9d1c6f5cff5080\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\aa6124f3f42802f8ca1fbca654ff2a46\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\41254e412d28ea62193518d604cfd89a\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\e7d63492d522e688dcc91ffb2a8249a9\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\f4cc757ed3a41612269116de49e706fc\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\89737df07548c97ed782a4ccb077d7b1\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\d4c77d692d3c015ebd32e4f5d6a41ed5\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\4e0b050e007fa8bacbb6c8b2a210a218\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\4e0b050e007fa8bacbb6c8b2a210a218\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\a867e28dd9fb26c428e694553a662cd9\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\a867e28dd9fb26c428e694553a662cd9\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\65861a908d9b10d04016df52136f13da\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\65861a908d9b10d04016df52136f13da\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\a867e28dd9fb26c428e694553a662cd9\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.company.shapes.ui.MainActivity
+ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:11:19-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\4e0b050e007fa8bacbb6c8b2a210a218\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\4e0b050e007fa8bacbb6c8b2a210a218\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\4c5acd53450a9d4e64351045029cd3ac\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\4c5acd53450a9d4e64351045029cd3ac\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\fef462d1d904d21787bda436b081312b\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\fef462d1d904d21787bda436b081312b\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\f17ea6d4907c4d2c40596a48bdd85f26\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\f17ea6d4907c4d2c40596a48bdd85f26\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\119e5ab76b6ea91c60c2fe8c35d09647\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\119e5ab76b6ea91c60c2fe8c35d09647\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\3b85300db432ac1c672d96d306579bb4\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\3b85300db432ac1c672d96d306579bb4\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\954ccf49b6a1501176cbf9f98565dedc\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\954ccf49b6a1501176cbf9f98565dedc\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\762589e567587105e97d65b51e9eb19c\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\762589e567587105e97d65b51e9eb19c\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\c61b649190c8bb06606f9c92fb8e04f2\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\c61b649190c8bb06606f9c92fb8e04f2\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\e18357ae99ed2fd9634cbc7fc8c44239\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\e18357ae99ed2fd9634cbc7fc8c44239\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\44f931e42a7544cbfd93e44ff5f1c8e0\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\44f931e42a7544cbfd93e44ff5f1c8e0\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\2a6f619bcbb4a9cefbb0081db2c8dfda\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\2a6f619bcbb4a9cefbb0081db2c8dfda\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\6d405c5ca18f21761d47e8d9314830f1\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\6d405c5ca18f21761d47e8d9314830f1\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\c63c62043550270e3a7c01ce3229f5a1\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\c63c62043550270e3a7c01ce3229f5a1\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\2b4d6e155631edae428b6718ed1b625e\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\2b4d6e155631edae428b6718ed1b625e\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\71c5a6b6d892268674b6713b6fcc2df0\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\71c5a6b6d892268674b6713b6fcc2df0\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\373482b0506e18019dce7ff8a9c5de20\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\373482b0506e18019dce7ff8a9c5de20\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\a867e28dd9fb26c428e694553a662cd9\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\a867e28dd9fb26c428e694553a662cd9\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\65861a908d9b10d04016df52136f13da\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\65861a908d9b10d04016df52136f13da\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\92517c4462684b0b3b10c32f53803a1b\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\92517c4462684b0b3b10c32f53803a1b\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\555d6abfc88c43cf1c9623b187b26d98\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\555d6abfc88c43cf1c9623b187b26d98\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\e70c97f59dfc31f75299ba273ed5f012\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\e70c97f59dfc31f75299ba273ed5f012\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\470cc8cc54015ed3d1c10eab1d3db0c9\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\470cc8cc54015ed3d1c10eab1d3db0c9\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\6e52bd240927a969ea9d1c6f5cff5080\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\6e52bd240927a969ea9d1c6f5cff5080\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\aa6124f3f42802f8ca1fbca654ff2a46\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\aa6124f3f42802f8ca1fbca654ff2a46\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\41254e412d28ea62193518d604cfd89a\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\41254e412d28ea62193518d604cfd89a\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\e7d63492d522e688dcc91ffb2a8249a9\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Vrungel\.gradle\caches\transforms-3\e7d63492d522e688dcc91ffb2a8249a9\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\f4cc757ed3a41612269116de49e706fc\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\f4cc757ed3a41612269116de49e706fc\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\89737df07548c97ed782a4ccb077d7b1\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\89737df07548c97ed782a4ccb077d7b1\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\d4c77d692d3c015ebd32e4f5d6a41ed5\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Vrungel\.gradle\caches\transforms-3\d4c77d692d3c015ebd32e4f5d6a41ed5\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from D:\lab1-assignment-shapes-skeleton\app\src\main\AndroidManifest.xml
